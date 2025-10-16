@@ -131,7 +131,7 @@ export default function RSVP({ data }: RSVPProps) {
             >
               <Heart className="w-6 h-6 text-blush-400 fill-current heartbeat" />
               <span className="text-transparent bg-gradient-to-r from-blush-600 to-sage-600 bg-clip-text font-semibold text-lg">
-                Linh & Nam
+                Tú Văn & Hường Nguyễn
               </span>
               <Heart className="w-6 h-6 text-sage-400 fill-current heartbeat" />
             </motion.div>

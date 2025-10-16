@@ -2,12 +2,12 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Linh & Nam - Wedding Invitation',
-  description: 'Join us on our special day - October 18th, 2025',
-  keywords: 'wedding, invitation, Linh, Nam, October 2025',
+  title: 'Tú Văn & Hường Nguyễn - Wedding Invitation',
+  description: 'Join us on our special day - December 12th, 2026',
+  keywords: 'wedding, invitation, Tú Văn, Hường Nguyễn, December 2026',
   openGraph: {
-    title: 'Linh & Nam - Wedding Invitation',
-    description: 'Join us on our special day - October 18th, 2025',
+    title: 'Tú Văn & Hường Nguyễn - Wedding Invitation',
+    description: 'Join us on our special day - December 12th, 2025',
     type: 'website',
   },
 };

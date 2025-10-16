@@ -277,7 +277,7 @@ export default function ThankYou({ data }: ThankYouProps) {
             className="flex items-center justify-center gap-8"
           >
             {[
-              { icon: Mail, href: "mailto:linh.nam.wedding@example.com", color: "text-blush-500" },
+              { icon: Mail, href: "mailto:congtuuit@gmail.com", color: "text-blush-500" },
               { icon: Instagram, href: "#", color: "text-sage-500" },
               { icon: Facebook, href: "#", color: "text-blush-500" }
             ].map((social, index) => (
