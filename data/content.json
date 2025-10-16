@@ -1,7 +1,7 @@
 {
   "hero": {
     "coupleName": "Tú Văn & Thị Hường",
-    "weddingDate": "December 12, 2026",
+    "weddingDate": "12-12-2026",
     "backgroundImage": "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=1920",
     "ctaText": "RSVP Now",
     "subtitle": "We're getting married!"
@@ -53,7 +53,7 @@
   },
   "countdown": {
     "title": "Counting Down",
-    "targetDate": "2025-10-18T16:00:00"
+    "targetDate": "2026-12-12T18:00:00"
   },
   "gallery": {
     "title": "Our Memories",
@@ -67,22 +67,22 @@
     ]
   },
   "rsvp": {
-    "title": "RSVP",
-    "subtitle": "Please let us know if you can join us for our special day",
-    "formTitle": "Confirm Your Attendance",
+    "title": "Hân hạnh đón tiếp bạn",
+    "subtitle": "Chúng tôi trân trọng kính mời bạn đến chung vui và cùng sẻ chia niềm hạnh phúc với chúng tôi trong ngày trọng đại này",
+    "formTitle": "Hồi đáp lời mời",
     "fields": {
-      "name": "Full Name",
+      "name": "Họ tên",
       "email": "Email Address", 
-      "guests": "Number of Guests",
-      "attendance": "Will you be attending?",
-      "message": "Special Message (Optional)"
+      "guests": "Số lượng khách mời đi cùng",
+      "attendance": "Chúng tôi có vinh hạnh được đón tiếp bạn trong ngày vui này chứ?",
+      "message": "Lời chúc của bạn"
     },
-    "submitText": "Send RSVP",
-    "deadline": "Please respond by December 12, 2026"
+    "submitText": "Gửi phản hồi",
+    "deadline": "Vui lòng phản hồi trước ngày 12 tháng 12 năm 2026"
   },
   "thankYou": {
     "title": "Thank You",
-    "message": "We can't wait to celebrate this special day with our loved ones. Your presence means the world to us!",
+    "message": "Chúng tôi háo hức được cùng những người thân yêu chia sẻ ngày trọng đại này. Sự hiện diện của bạn là niềm vinh hạnh lớn đối với chúng tôi!",
     "signature": "With love,",
     "names": "Tú Văn & Thị Hường"
   }
