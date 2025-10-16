@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "coupleName": "Tú Văn & Thị Hường",
+    "weddingDate": "December 12, 2026",
+    "backgroundImage": "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=1920",
+    "ctaText": "RSVP Now",
+    "subtitle": "We're getting married!"
+  },
+  "loveStory": {
+    "title": "Our Love Story",
+    "subtitle": "The journey that brought us together",
+    "timeline": [
+      {
+        "year": "2019",
+        "title": "First Meeting",
+        "description": "We met at a coffee shop in Dalat during a weekend getaway. What started as a chance encounter over spilled coffee became the beginning of our beautiful journey together."
+      },
+      {
+        "year": "2021",
+        "title": "First Adventure",
+        "description": "Our first big adventure together was a backpacking trip through Northern Vietnam. We discovered we were perfect travel companions and that we both loved getting lost in new places."
+      },
+      {
+        "year": "2023",
+        "title": "Moving In",
+        "description": "We decided to take the next step and move in together in Ho Chi Minh City. Building a home together taught us so much about love, patience, and compromise."
+      },
+      {
+        "year": "2024",
+        "title": "The Proposal",
+        "description": "Under a blanket of stars on a beach in Da Nang, Nam got down on one knee and asked the question that would change our lives forever. Of course, Linh said yes!"
+      }
+    ]
+  },
+  "eventDetails": {
+    "title": "Wedding Details",
+    "ceremony": {
+      "title": "Ceremony",
+      "dateTime": "October 18th, 2025 at 4:00 PM",
+      "location": "GEM Center",
+      "address": "8 Nguyen Binh Khiem, District 1, Ho Chi Minh City",
+      "mapUrl": "https://goo.gl/maps/example"
+    },
+    "reception": {
+      "title": "Reception",
+      "dateTime": "October 18th, 2025 at 6:00 PM",
+      "location": "GEM Center Ballroom",
+      "address": "8 Nguyen Binh Khiem, District 1, Ho Chi Minh City",
+      "mapUrl": "https://goo.gl/maps/example"
+    },
+    "dressCode": "Elegant Cocktail Attire",
+    "dressCodeDescription": "We'd love to see you in pastels and soft colors that complement our romantic theme."
+  },
+  "countdown": {
+    "title": "Counting Down",
+    "targetDate": "2025-10-18T16:00:00"
+  },
+  "gallery": {
+    "title": "Our Memories",
+    "images": [
+      "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1729797/pexels-photo-1729797.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1444442/pexels-photo-1444442.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1043473/pexels-photo-1043473.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1024967/pexels-photo-1024967.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ]
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "subtitle": "Please let us know if you can join us for our special day",
+    "formTitle": "Confirm Your Attendance",
+    "fields": {
+      "name": "Full Name",
+      "email": "Email Address", 
+      "guests": "Number of Guests",
+      "attendance": "Will you be attending?",
+      "message": "Special Message (Optional)"
+    },
+    "submitText": "Send RSVP",
+    "deadline": "Please respond by December 12, 2026"
+  },
+  "thankYou": {
+    "title": "Thank You",
+    "message": "We can't wait to celebrate this special day with our loved ones. Your presence means the world to us!",
+    "signature": "With love,",
+    "names": "Tú Văn & Thị Hường"
+  }
+}
